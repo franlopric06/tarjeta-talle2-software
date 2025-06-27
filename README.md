@@ -1,10 +1,10 @@
 # Tarjeta  - Taller 2
 
-Este es mi **primer repositorio** en GitHub, desarrollado como parte  Taller 2 de la Tecnicatura en Desarrollo de Software.
+Este es mi primer repositorio** en GitHub, desarrollado como parte  Taller 2 de la Tecnicatura en Desarrollo de Software.
 
 Descripción del proyecto
 
-Se trata de una **tarjeta   o de presentación creada utilizando HTML y CSS. El proyecto tiene como objetivo aplicar y practicar los conceptos fundamentales del **diseño web responsive.
+Se trata de una tarjeta  o de presentación creada utilizando HTML y CSS. El proyecto tiene como objetivo aplicar y practicar los conceptos fundamentales del diseño web responsive.
 
 La estructura está construida con HTML semántico, y el diseño visual fue logrado mediante CSS, con un enfoque en que la tarjeta sea **atractiva, limpia y adaptable a diferentes tamaños de pantalla.
 
