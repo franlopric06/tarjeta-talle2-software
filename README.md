@@ -1,19 +1,13 @@
-# Tarjeta  - Taller 2
+# Tarjeta  - Taller 2 - Tecnicatura en Desarrollo de Software
+# Link  -  https://mi-tarjeta-taller2.netlify.app/
 
 Este es mi primer repositorio en GitHub, desarrollado como parte  Taller 2 de la Tecnicatura en Desarrollo de Software.
 
-Descripción del proyecto
+Se trata de una tarjeta  de presentación creada utilizando HTML y CSS. El proyecto tiene como objetivo aplicar y practicar los conceptos fundamentales del diseño web responsive.
 
-Se trata de una tarjeta   o de presentación creada utilizando HTML y CSS. El proyecto tiene como objetivo aplicar y practicar los conceptos fundamentales del diseño web responsive.
-Este es mi primer repositorio** en GitHub, desarrollado como parte  Taller 2 de la Tecnicatura en Desarrollo de Software.
+La estructura está construida con HTML y el diseño visual fue logrado mediante CSS, con un enfoque en que la tarjeta sea atractiva, limpia y adaptable a diferentes tamaños de pantalla.
 
-Descripción del proyecto
-
-Se trata de una tarjeta  o de presentación creada utilizando HTML y CSS. El proyecto tiene como objetivo aplicar y practicar los conceptos fundamentales del diseño web responsive.
-
-La estructura está construida con HTML semántico, y el diseño visual fue logrado mediante CSS, con un enfoque en que la tarjeta sea atractiva, limpia y adaptable a diferentes tamaños de pantalla.
-
- Objetivos alcanzados
+ # Objetivos alcanzados
 
 -Desarrollar mi primer repositorio y trabajo publicado en GitHub
 -Utilizar HTML para la estructura del contenido
@@ -24,7 +18,7 @@ La estructura está construida con HTML semántico, y el diseño visual fue logr
 -Hacer que la tarjeta se vea bien tanto en móviles como en computadoras
 -Comprender el flujo de trabajo de Git y GitHub
 
-Herramientas utilizadas
+# Herramientas utilizadas
 
 - HTML5
 - CSS3
@@ -35,4 +29,4 @@ Herramientas utilizadas
 
 Estoy muy contento de haber realizado este trabajo, y espero seguir aprendiendo y mejorando en futuros proyectos.
 
-Gracias por visitar este repositorio 
+

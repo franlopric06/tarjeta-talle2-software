@@ -136,7 +136,7 @@ p{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-     /* gap: 20px; */
+    
 }
 @media(min-width:760px){
     .div-contenedor{
